@@ -5,7 +5,7 @@ Queen Mary University of London, London, United Kingdom</br>
 *chauyi.li@qmul.ac.uk</br>
 </p>
 
-Our paper is accepted in ICASSP 2022. Preprint is available: [arXiv](https://arxiv.org/abs/2203.02635)
+Our paper is accepted in ICASSP 2022. Preprint available: [arXiv](https://arxiv.org/abs/2203.02635)
 
 
 ## Abstract
